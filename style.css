@@ -33,3 +33,10 @@ li {
 #temperature{
 font-size: 50px;
 }
+a{
+text-decoration: none;
+}
+.myName{
+      text-align: center;
+}
+
